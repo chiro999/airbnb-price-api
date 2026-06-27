@@ -16,7 +16,7 @@ https://airbnb-price-api.vercel.app/
 
 **Backend**
 
-A Flask REST API hosted on Google Cloud Run serving predictions from a trained Random Forest Regressor.
+A Flask REST API hosted on Google Cloud Run serving predictions from a trained Random Forest model.
 
 ---
 
