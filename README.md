@@ -235,9 +235,3 @@ The application is automatically containerized and deployed using the included D
 - Unit and integration testing
 
 ---
-
-## Author
-
-**Nana Kwame**
-
-Machine Learning • Data Science • Cloud Deployment
