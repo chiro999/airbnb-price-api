@@ -224,14 +224,3 @@ The application is automatically containerized and deployed using the included D
 
 ---
 
-## Future Improvements
-
-- Hyperparameter optimization
-- Model versioning
-- CI/CD using GitHub Actions
-- Model monitoring
-- Input validation with Pydantic
-- Swagger/OpenAPI documentation
-- Unit and integration testing
-
----
