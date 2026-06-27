@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import joblib
 import pandas as pd
 import numpy as np
 
 app = Flask(__name__)
+CORS(app)
 
 model = joblib.load("airbnb_price_model.joblib")
 
